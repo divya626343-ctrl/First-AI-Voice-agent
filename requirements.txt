@@ -1,0 +1,7 @@
+SpeechRecognition
+pyaudio
+openai
+elevenlabs
+python-dotenv
+sounddevice
+fastapi
